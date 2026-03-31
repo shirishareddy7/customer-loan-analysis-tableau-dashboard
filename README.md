@@ -8,8 +8,7 @@ The same dataset has been used across Excel, Power BI, and Tableau to demonstrat
 To analyze loan data and build an interactive dashboard that highlights trends, customer behavior, and risk patterns using Tablea
 
 ## 📂 Dataset Used
-- Loan dataset with customer details, loan amount, interest rate, grade, and payment status  
-- Time Period: 2007 – 2011  
+- <a href="https://github.com/shirishareddy7/customer-loan-analysis-tableau-dashboard/blob/main/Tableau%20with%20DashBoard%20(1).twbx">Dataset</a>
 - Dataset reused across Excel, Power BI, and Tableau dashboards  
 
 ## 📊 Questions (KPIs)
@@ -40,8 +39,6 @@ To analyze loan data and build an interactive dashboard that highlights trends, 
 This project demonstrates how the same dataset can be analyzed using different tools. 
 Tableau provides powerful interactive visualizations that enhance understanding of loan trends and support better decision-making.
 
-## 🔗 Dashboard Access
-Feel free to explore the Tableau dashboard and interact with filters. You can also adapt it using your own dataset.
 
 ## 📷 Dashboard Preview
 ![Image ](https://github.com/user-attachments/assets/7668bc1f-c92a-4745-883d-ed78a8954f8e)
